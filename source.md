@@ -14,12 +14,12 @@
    + 시간별 소비 추세, 네임스페이스별 일별 및 월별 회계. 이시간 경과에 따라 실제 사용량을 추적 하는 분석 지표를 제공
    + 시간 단위로 통합되며 일별,월별로 처리
    + 시간별,일별, 월별 데이터를 차트로 제공
-+  엔지니어링 및 재무 팀이 적절한 비용 최적화 결정을 내리기 위한 핵심 지표로 사용할 수 있는 통찰력 있는 사용 분석 지표 및 차트 제공
+   +  엔지니어링 및 재무 팀이 적절한 비용 최적화 결정을 내리기 위한 핵심 지표로 사용할 수 있는 통찰력 있는 사용 분석 지표 및 차트 제공
    
 3. 주의사항
    
-- 이 오픈소스를 사용하기위해 Kubernetes, Docker 설치 필요
-  
+   - 이 오픈소스를 사용하기위해 Kubernetes, Docker 설치 필요
+    
      Kubernetes(쿠버네티스)란?
    
      ​	쿠버네티스는 컨테이너를 쉽고 빠르게 배포/확장하고 관리를 자동화해주는 오픈소스 플랫폼
@@ -42,6 +42,7 @@
 
    https://github.com/rchakode/kube-opex-analytics
    
- <img src="C:\Users\윤동원\OneDrive\바탕 화면\a.png" url>
-   
+
+ <img src="https://github.com/hs-1971188-yundongwon/project/blob/main/image.png" width="1000" height="700">
+
    
