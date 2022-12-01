@@ -67,4 +67,15 @@
 <hr> 
 
 ### 5. 예측 GUI 프로토 타입
-(저희가 실제로 서비스를 하게 될 경우 ~한 키오스크 UI를 가지며 사람들이 어떠한 방식으로 라면을 조리할 수 있는지 갼략한 그림과 함께 설명을 추가)
+
+ 1.자사 서비스의 회원인 경우 회원에게 혜택을 주기 위해 주문 전 회원과 비회원을 선택할 수 있는 GUI
+<img src="https://github.com/minyoungKo/gitkiosk/blob/main/%EC%B4%88%EA%B8%B0%ED%99%94%EB%A9%B4.jpg" width="300" heigth="300"></br>
+<br>
+ 2.라면의 번호를 매겨 시각장애인의 경우 키오스크의 키패드로 1번을 선택하면 신라면이 선택 될 수 있게 하는 GUI (시각장애인의 경우 음성안내로 번호를 통해 라면 종류를 알 수 있다)
+<img src="https://github.com/minyoungKo/gitkiosk/blob/main/%EB%9D%BC%EB%A9%B4%ED%99%94%EB%A9%B4.jpg" width="300" heigth="300"></br>
+<br>
+ 3.토핑을 선택 할 수 있는 GUI
+<img src="https://github.com/minyoungKo/gitkiosk/blob/main/%ED%86%A0%ED%95%91%ED%99%94%EB%A9%B4.jpg" width="300" heigth="300"></br>
+<br>
+4.회원을 선택 했을 경우 할인 쿠폰을 적용 할 수 있는 GUI 비회원의 경우 GUI에서 할인 쿠폰 선택은 빠지게 된다
+<img src="https://github.com/minyoungKo/gitkiosk/blob/main/%EA%B2%B0%EC%A0%9C%ED%99%94%EB%A9%B4.jpg" width="300" heigth="300">
