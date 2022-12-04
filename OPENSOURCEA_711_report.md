@@ -154,4 +154,15 @@ Apache 2.0 라이선스를 사용하였다.
 <hr> 
 
 ### 5. 예측 GUI 프로토 타입
-(저희가 실제로 서비스를 하게 될 경우 ~한 키오스크 UI를 가지며 사람들이 어떠한 방식으로 라면을 조리할 수 있는지 갼략한 그림과 함께 설명을 추가)
+
+1.자사의 회원인 경우 혜택을 받을 수 있게 주문 전 회원과 비회원을 선택 할 수 있는 GUI<br>
+<img src="https://github.com/minyoungKo/gitkiosk/blob/main/kiosk1.jpg" width="300" heigth="300">
+<br><br>
+2.라면 설명 텍스트의 번호를 넣어 시각 장애인에게 음성안내를 할 경우 번호로 라면을 선택 할 수 있게 하는 GUI (시각 장애인은 키패드를 통해 라면을 주문 할 수 있다)<br>
+<img src="https://github.com/minyoungKo/gitkiosk/blob/main/kiosk2.jpg" width="300" heigth="300">
+<br><br>
+3.토핑을 선택 할 수 있는 GUI<br>
+<img src="https://github.com/minyoungKo/gitkiosk/blob/main/kiosk3.jpg" width="300" heigth="300">
+<br><br>
+4.주문 전 회원으로 선택 할 경우 할인 쿠폰을 사용할 수 있는 회원 전용 GUI (비회원의 경우 결제화면에서 할인 쿠폰 선택은 제외)<br>
+<img src="https://github.com/minyoungKo/gitkiosk/blob/main/kiosk4.jpg" width="300" heigth="300">
