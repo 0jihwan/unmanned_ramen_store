@@ -150,6 +150,9 @@ Apache 2.0 라이선스를 사용하였다.
 ### 4. DFD & 라이선스 충돌 여부 설명
 
 4-1) **DFD**
+
+<img src="https://github.com/0jihwan/unmanned_ramen_store/blob/main/DFD/DFD_kiosk.png?raw=true">
+
 키오스크는 부팅 시 메뉴/가격 정보가 저장된 DB로부터 저장되어있는 정보를 가져와 메뉴를 갱신한다.
 이후 Porteus OS가 내장된 키오스크를 사용자가 조작한다.
 이때 사용자가 매장 이용 외에 웹서핑, 파일 삭제 등 추가로 조작하지 못하도록 Porteus가 방지한다.
@@ -165,6 +168,9 @@ Apache 2.0 라이선스를 사용하였다.
 성공적으로 결제했다면 사용자는 전표 수령과 함께 자판기에 준비된 라면과 토핑을 챙겨 DIY식으로 조리한다.
 키오스크는 초기 화면으로 돌아가며 내부 상태를 초기화한다.
 결제된 제품의 정보는 사용자 선호 결제 정보 저장 DB에 저장되며 이 데이터를 통해 토핑과 라면의 조합의 data를 PredictionIO가 분석 후 토핑 리스트 DB에 저장한다.
+
+
+<img src="https://github.com/0jihwan/unmanned_ramen_store/blob/main/DFD/DFD_management.png?raw=true">
 
 다음으로 관리자 시점의 DFD를 서술하겠다.
 
